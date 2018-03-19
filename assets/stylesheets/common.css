@@ -1,0 +1,25 @@
+body {
+  color: #33CCFF;
+  font-size: 14px;
+  line-height: 1.4;
+  text-align: center;
+  background: url(../images/back.jpeg) center center / cover no-repeat fixed;
+}
+.clearfix:after{
+  display: block;
+  clear: both;
+  content: "";
+}
+.container {
+  margin: 0 auto;
+  width: 960px;
+}
+
+.top {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+
+
+.
